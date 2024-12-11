@@ -1,0 +1,35 @@
+.tablink {
+    font-weight: bold;
+    background-color: #d35227;
+    color: #d8d8d8;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 14px;
+    font-family: cursive;
+    width: 16%;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+
+.tablink:hover {
+    background-color: #c53c3c;
+}
+
+/* Style the tab content */
+.tabcontent {
+    color: white;
+    display: none;
+    padding: 50px;
+    text-align: center;
+}
+
+#academic {background-color: #ffffff;}
+#classRoutine {background-color: #ffffff;}
+#Syllabus {background-color: #ffffff;}
+#courseStructure {background-color: #ffffff;}
+#courseOutline {background-color: #ffffff;}
+#cta {background-color: #b8b2a4;}
+
